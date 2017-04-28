@@ -1,0 +1,14 @@
+{
+    "name": "nodeapp",
+    "version": "0.1.0",
+    "description": "Node app on Docker",
+    "author": "Chema Barcala <chema.barcala@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.15"
+    }
+}
+
